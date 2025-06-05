@@ -177,7 +177,7 @@ linear-gradient(135deg, #667eea 0%, #764ba2 100%)
 
 - **Documentation:** [Link to docs]
 - **Issues:** [Link to issues]
-- **Email:** support@[tenapp].com
+- **Email:** admin@ankun.dev
 
 ## 📄 License
 
@@ -193,4 +193,4 @@ MIT License - Xem file LICENSE để biết thêm chi tiết.
 
 ---
 
-**[tenapp]** - Nền tảng phát hành nhạc chuyên nghiệp cho thế hệ mới 🎵
+**AKs Studio** - Nền tảng phát hành nhạc chuyên nghiệp cho thế hệ mới 🎵
